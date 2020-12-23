@@ -1,0 +1,146 @@
+----------------------
+Bar-headed Goose
+Whooper Swan
+Ruddy Shelduck
+Tufted Duck
+Stejnegar’s Scoter
+Common Goldeneye
+Hill Pigeon
+Common Cuckoo
+Oriental Cuckoo
+Demoiselle Crane
+Northern Lapwing
+Little-ringed Plover
+Common Sandpiper
+Black-headed Gull
+Herring Gull
+Common Tern
+Arctic Loon
+Great Cormorant
+Gray Heron
+Cinereous Vulture
+Black Kite
+Eurasian Magpie
+Eurasian Nutcracker
+Red-billed Chough
+Daurian Jackdaw
+Carrion Crow
+Common Raven
+Willow Tit
+Horned Lark
+Mongolian Lark
+Greater Short-toed Lark
+Barn Swallow
+Dusky Warbler
+Lesser Whitethroat
+Eurasian Nuthatch
+Red-throated Thrush
+Dark-sided Flycatcher
+Taiga Flycatcher
+Common Redstart
+Siberian Stonechat
+Northern Wheatear
+Isabelline Wheatear
+Eurasian Tree Sparrow
+Gray Wagtail
+White Wagtail
+Tree Pipit
+Brambling
+Pine Bunting
+Graylag Goose
+Mute Swan
+Common Shelduck
+Garganey
+Falcated Duck
+Ferruginous Duck
+Smew
+Red-breasted Merganser
+Rock Ptarmigan
+Little Grebe
+Red-necked Grebe
+Oriental Turtle Dove
+Great Bustard
+Siberian Crane
+White-naped Crane
+Pacific Golden Plover
+Kentish Plover
+Eurasian Dotterel
+Whimbrel
+Little Curlew
+Eurasian Curlew
+Black-tailed Godwit
+Curlew Sandpiper
+Temminck’s Stint
+Long-toed Stint
+Red-necked Stint
+Dunlin
+Little Stint
+Eurasian Woodcock
+Swinhoe’s Snipe
+Terek Sandpiper
+Spotted Redshank
+Common Greenshank
+Marsh Sandpiper
+Wood Sandpiper
+Slender Billed Gull
+Caspian Tern
+Black Tern
+Whiskered Tern
+Eurasian Spoonbill
+Osprey
+Oriental Honey Buzzard
+Greater Spotted Eagle
+Imperial Eagle
+Hen Harrier
+Palla’s Fish Eagle
+Common Buzzard
+Urul Owl
+Long-eared Owl
+Short Eared Owl
+Lesser Spotted Woodpecker
+Merlin
+Eurasian Hobby
+Isabelline Shrike
+Eurasian Jay
+Gray Headed Chickadee
+Azure Tit
+Great Tit
+Asian Short Toed Lark
+Thick Billed Warbler
+Booted Warbler
+Palla’s Grasshopper Warbler
+Bank Swallow
+Pale Sand Martin
+Eurasian Crag Martin
+Asian House Martin
+Common Chiffchaff
+Two Barred Warbler
+Arctic Warbler
+Long Tailed Tit
+Greater Whitethroat
+Mistle Thrush
+Redwing
+Naumann’s Thrush
+Siberian Blue Robin
+Siberian Rubythroat
+White-winged Redstart
+Rufous Tailed Rock Thrush
+Pied Wheatear
+Brown Accentor
+House Sparrow
+Rock Sparrow
+Eastern Yellow Wagtail
+Richard’s Pipit
+Blyth’s Pipit
+Water Pipit
+Long-tailed Rosefinch
+Palla’s Rosefinch
+Twite
+Common Redpoll
+Red Crossbill
+Eurasian Siskin
+Godlewski’s Bunting
+Meadow Bunting
+Palla’s Bunting
+Reed Bunting
+Black-faced Bunting
